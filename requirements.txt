@@ -1,7 +1,2 @@
-notepad requirements.txt
-```
-
-Notepad will open → paste this:
-```
 flask==2.3.0
 pytest==7.4.0
